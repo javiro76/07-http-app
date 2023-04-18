@@ -17,7 +17,7 @@ export const loadUsersByPage = async( page = 1 ) =>{
 
   
 
-    console.log( users);
+    //console.log( users);
     return users;
 };
 
